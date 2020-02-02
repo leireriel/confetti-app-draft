@@ -1,14 +1,17 @@
-# confetti - app 🎉
+# Confetti 🎉
+
+<!-- Captura de la app -->
+<!-- Create your account now! ➜ (link) -->
+
+## 👀 What is this?
 
 This is a mobile-first approach app. When it is finished, you will be able to create your own account and add the birthdays of your family and friends, so you don't forget any of them again!
 
 The app will have a calendar view and a detail view so you can edit the data of each birthday and add notes. There will also be a birthday reminder service from the backend. Enjoy it! 🥳
 
-<!-- Create your account now! ➜ (link) -->
-
 ## 📅 What am I working on now
 
-Installing react and dependencies, create skeleton
+Installing react and dependencies, create skeleton.
 
 ## 🏗️ Getting started
 
@@ -27,8 +30,8 @@ You need to have installed [Node.js](https://nodejs.org/), and then:
 * [react](https://www.npmjs.com/package/react) ⚛ 
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 * [prop-types](https://www.npmjs.com/package/prop-types)
-- [eslint](https://www.npmjs.com/package/eslint)
-- [node-sass](https://www.npmjs.com/package/node-sass)
+* [eslint](https://www.npmjs.com/package/eslint)
+* [node-sass](https://www.npmjs.com/package/node-sass)
 
 ## 🤝 Collaboration
 
@@ -45,9 +48,9 @@ Also I am doing this work in collaboration with my partner Marrarichy, which req
 
 ## 💡 To Do
 
+...
 <!-- Tests -->
 
 ## 🤜🤛 Suggestions
 
-All suggestions are welcome, please open an issue :)
-Thanks! 💜
+All suggestions are welcome, please open an issue 💜
