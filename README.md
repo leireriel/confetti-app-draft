@@ -11,15 +11,15 @@ The app will have a calendar view and a detail view so you can edit the data of 
 
 ## 📅 What am I working on now
 
-Installing react and dependencies, create skeleton.
+Creating project structure :)
 
 ## 🏗️ Getting started
 
 You need to have installed [Node.js](https://nodejs.org/), and then:
 
 1. `$ git clone https://github.com/leireriel/confetti-app.git`
-2. `$ npm install` to install all dependencies
-3. `$ npm start` to run proyect
+2. `$ npm install`
+3. `$ npm start`
 
 ## ⛩️ Structure
 
@@ -33,9 +33,9 @@ You need to have installed [Node.js](https://nodejs.org/), and then:
 * [eslint](https://www.npmjs.com/package/eslint)
 * [node-sass](https://www.npmjs.com/package/node-sass)
 
-## 🤝 Collaboration
+## 🤝 Partnership
 
-The backend of this app is being provided by my partner [Marrarichy](https://github.com/scatt89).
+The backend of this app is being provided by my partner [Marrarichy Da Silva](https://github.com/scatt89).
 We have planned together the API contract and the features of the app.
 
 ## 💪 Challenges
