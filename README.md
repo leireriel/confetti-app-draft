@@ -19,13 +19,13 @@ You need to have installed [Node.js](https://nodejs.org/), and then:
 
 1. `$ git clone https://github.com/leireriel/confetti-app.git`
 2. `$ npm install`
-3. `$ npm start` + visit `http://localhost:3000/`
+3. `$ npm start` + open `http://localhost:3000/`
 
 ## ⛩️ Structure
 
 ...
 
-## 🗂️ Dependencies
+## 📦 Dependencies
 
 * [react](https://www.npmjs.com/package/react) ⚛ 
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
