@@ -19,7 +19,7 @@ You need to have installed [Node.js](https://nodejs.org/), and then:
 
 1. `$ git clone https://github.com/leireriel/confetti-app.git`
 2. `$ npm install`
-3. `$ npm start`
+3. `$ npm start` + visit `http://localhost:3000/`
 
 ## ⛩️ Structure
 
@@ -50,6 +50,17 @@ Also I am doing this work in collaboration with my partner Marrarichy, which req
 
 ...
 <!-- Tests -->
+<!-- React native or WPA :) -->
+
+## 🔧 Production build
+
+To generate a production ready version on `docs` folder:
+
+1. Add `"homepage": "./"` in `package.json`
+2. Make sure there are only `https` in your project (replace all references to http with https)
+3. `$ npm run build` + `$ mv build docs`
+
+Now you can upload your public folder to GitHub Pages or similar :)
 
 ## 🤜🤛 Suggestions
 
